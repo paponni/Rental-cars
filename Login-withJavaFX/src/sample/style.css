@@ -1,0 +1,44 @@
+.loginText{
+
+
+    -fx-background-color: transparent;
+    -fx-prompt-text-fill: black;
+    -fx-border-width: 0px 0px 2px 0px;
+    -fx-border-color: #E280A2;
+
+}
+
+.loginText:hover{
+    -fx-border-color: #FC5891;
+}
+
+
+.button_login{
+    -fx-background-color: transparent;
+    -fx-border-color: #E280A2;
+    -fx-border-width: 2px 2px 2px 2px;
+    -fx-text-fill: black;
+
+}
+.button_login:hover{
+    -fx-background-color: #E280A2;
+
+}
+.button_menu{
+    -fx-background-color: transparent;
+    -fx-text-fill: white;
+    -fx-border-color: #E280A2;
+    -fx-border-width: 0px 0px 2px 0px;
+    -fx-background-radius: 30 0 0 30;
+    -fx-border-radius: 30 0 0 30;
+
+
+}
+.button_menu:hover{
+    -fx-background-color: #E280A2;
+}
+.button:pressed{
+    -fx-background-color: transparent;
+}
+
+
