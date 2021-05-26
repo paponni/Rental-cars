@@ -1,2 +1,2 @@
 # Rental-cars
-java application javaFX(frontend) springboot(backend)
+java application javaFX(frontend) JAVA et SQL
